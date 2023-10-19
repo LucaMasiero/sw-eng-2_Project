@@ -1,1 +1,1 @@
-# GriffantiMasiero
+# Software Engineering 2 project
